@@ -786,7 +786,7 @@ var RT =
 
 	var g = {
 	    options: null,
-	    player: 'html5',
+	    player: null,
 	    duration: null
 	};
 
